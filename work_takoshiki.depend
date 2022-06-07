@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620736373 source:c:\users\takahashi\downloads\work_takoshiki\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
